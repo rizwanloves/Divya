@@ -6,7 +6,7 @@ var imgWidth = 120;
 var imgHeight = 170; 
 
 
-var bgMusicURL = '/Kesariya(PagalWorld.com.se).mp3'
+var bgMusicURL = 'Kesariya(PagalWorld.com.se).mp3'
 var bgMusicControls = true; 
 
 
